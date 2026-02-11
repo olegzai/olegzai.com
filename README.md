@@ -5,5 +5,5 @@ Artist & Developer.
 Odessa, Ukraine.  
 
 
-Copyright © 2026
+Copyright © 2026  
 All rights reserved.
